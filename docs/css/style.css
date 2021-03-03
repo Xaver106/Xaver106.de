@@ -64,8 +64,9 @@ a {
 }
 
 @media only screen and (max-width: 800px) {
-    body {
-        overflow: auto;
+    .home-header h1 {
+        padding-top: 10vh;
+        font-size: 50px;
     }
 
     .home-header-content {
