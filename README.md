@@ -1,5 +1,6 @@
 # QuickWrite.net
-This is the static website for the domain QuickWrite.net as a domein without something is boring.
+This is the static website for the domain QuickWrite.net.
+As a domain without a website is boring.
 
 ## License
 Unlicense license
