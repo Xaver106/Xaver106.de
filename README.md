@@ -1,5 +1,5 @@
-# QuickWrite.net
-This is the static website for the domain QuickWrite.net.
+# Xaver106 WIP
+This is the static website for the domain Xaver106.de.
 As a domain without a website is boring.
 
 ## License
